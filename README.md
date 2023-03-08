@@ -13,7 +13,7 @@ Download or fork the repo to get started!
 Download or fork the repo
 
 ```
-git clone https://github.com/Nouridio/Discord-bot-website-template.git
+git clone https://github.com/Karamraj/Discord-bot-website-template.git
 ```
 
 Open index.html and start to use the website 
@@ -25,14 +25,9 @@ Open index.html and start to use the website
 
 ## Authors
 
-[Nouridio](https://github.com/Nouridio)
+[Karamraj Singh Anand](https://github.com/Karamraj)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-### Support Nouridio
-
-Support me and get access to new free website templates and premium website design.
-
-<a href="https://www.buymeacoffee.com/king"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=❤️&slug=nouridio&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
